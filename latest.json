@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "RainCode 0.1.10",
-  "pub_date": "2026-06-05T06:04:53.210Z",
+  "version": "0.1.11",
+  "notes": "RainCode 0.1.11",
+  "pub_date": "2026-06-11T11:44:14.204Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGlGODNNYzVTTXZPMkhkQm9SeTRVUUpZK3VZU25wWjYxVEd6bEpMNzlzU2NKNDVxR0xTRlJUVUl5SmZ4a1o0UFpOOGdFTU5IT21HRUFkTEVHUnZKQndkT2Fxbkt4b0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjM5NDkyCWZpbGU6UmFpbkNvZGUuYXBwLnRhci5negpaZEFGSXFleTZydFZEakRVMWNCcGl0blFldHJzMlJWWlNVMzduNktGbnVqMjF2VVJka0J4Q1QvMUxDOWx3OVdOUkljOVdvQzlyTW1iN2Z1L1hrd29BQT09Cg==",
-      "url": "https://raw.githubusercontent.com/xiay8874-source/raincode-updates/main/RainCode_0.1.10_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcGlGODNNYzVTTXRxd2pLSW9ocVE1aS9hdDBrRStoNXlNcVIvYy9oaThFUTJuSjRjaEk2STJJTFlmNis2UUpTdzdKVFowUXpYdlI2L1VCcGpuQzUvazVkRGowYkRXUXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTc4MjUxCWZpbGU6UmFpbkNvZGUuYXBwLnRhci5negpEellTMHFTTHhGUEk3eUtOY214VjI1MXp5bDk2aEUvTzlqSEFpbEFKUXVweFJDUUdjSEZBNHpwbm1RaGtPdUIwQ1lTN1RITTBSQ29rY1RtN3Nud3JDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/xiay8874-source/raincode-updates/main/RainCode_0.1.11_aarch64.app.tar.gz"
     }
   }
 }
